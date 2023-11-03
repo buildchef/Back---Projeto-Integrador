@@ -1,0 +1,23 @@
+# Módulos Node.js
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de build
+/build
+/out
+
+# Arquivos de configuração
+*.config.js
+
+# Arquivos de backup
+*.bak
+
+# Arquivos de usuário
+.vscode/
+.idea/
